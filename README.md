@@ -1,3 +1,5 @@
+![CI](https://github.com/yokejs/core-env/workflows/CI/badge.svg)
+
 # [Yoke.js Env](https://github.com/yokejs/core-env)
 
 Yoke.js Env provides a simple and safe way to access environment variables
