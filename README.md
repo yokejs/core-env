@@ -14,7 +14,7 @@ or
 ### Retrieving an environment variable
 
 ```
-import Env from '@yokejs/core-cache'
+import Env from '@yokejs/core-env'
 
 const env = Env()
 
